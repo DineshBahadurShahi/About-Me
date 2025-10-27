@@ -3,7 +3,7 @@
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#26F0F1&height=120&section=header"/>
 </a>
 <p align="center">
-  <img src="dinesh.PNG" alt="Dinesh Bahadur Shahi" width="150" style="border-radius: 50%;">
+  <img src="dinesh.PNG" alt="Dinesh Bahadur Shahi" width="260" style="border-radius: 50%;">
 </p>
 
 
@@ -13,9 +13,7 @@
 <h3 align="center">Computer Science Engineer passionate about web development and building useful tech for everyone</h3>
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DineshBahadurShahi&label=Profile%20views&color=0e75b6&style=flat" alt="DineshBahadurShahi" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
