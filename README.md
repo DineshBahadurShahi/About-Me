@@ -2,7 +2,10 @@
 <a href="#">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#26F0F1&height=120&section=header"/>
 </a>
-![profile photo](dinesh.png)
+<p align="center">
+  <img src="dinesh.PNG" alt="Dinesh Bahadur Shahi" width="150" style="border-radius: 50%;">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Dinesh Bahadur Shahi</h1>
 <h3 align="center">Computer Science Engineer | Full Stack Developer | Tech Enthusiast</h3>
