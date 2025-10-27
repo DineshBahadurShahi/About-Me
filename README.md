@@ -15,11 +15,7 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DineshBahadurShahi&theme=juicyfresh" alt="DineshBahadurShahi" />
-  </a>
-</p>
+
 <hr size="25">
 
 - 🎓 **Recent graduate in Computer Science & Engineering.**
