@@ -12,6 +12,10 @@
 
 <h3 align="center">Computer Science Engineer passionate about web development and building useful tech for everyone</h3>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DineshBahadurShahi&theme=juicyfresh" alt="GitHub Trophies" />
+</p>
+
 
 
 
